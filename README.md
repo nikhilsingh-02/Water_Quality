@@ -1,19 +1,19 @@
-# Water Quality Data EDA
+# Water Quality Data EDA  
 
-### Source of data:-
+### Dataset Reference:-  
 
-##### https://www.kaggle.com/datasets/supriyoain/water-quality-data/data
+##### [Kaggle – Water Quality Dataset](https://www.kaggle.com/datasets/supriyoain/water-quality-data/data)  
 
-### Features in the dataset:-
+### Attributes in the dataset:-  
 
-<ul> <b>Date:</b> Indicates the date when the water quality data was recorded. </ul>
-<ul> <b>Salinity:</b> Denotes the concentration of salts in the water. </ul>
-<ul> <b>Dissolved Oxygen:</b> Indicates the amount of oxygen dissolved in the water, crucial for aquatic life. </ul>
-<ul> <b>pH:</b> Represents the acidity or alkalinity level of the water. </ul>
-<ul> <b>Secchi Depth (m):</b> Measures the depth at which a Secchi disk disappears from view, providing insight into water transparency. </ul>
-<ul> <b>Water Depth:</b> Indicates the depth of the water column at the sampling location. </ul>
-<ul> <b>Water Temperature:</b> Provides the thermal condition of the water. </ul>
-<ul> <b>Air Temperature:</b> Represents the ambient air temperature during sampling. </ul>
+<ul> <b>Date:</b> The specific day on which the water sample measurements were collected. </ul>  
+<ul> <b>Salinity:</b> Refers to the level of dissolved salts present in the water sample. </ul>  
+<ul> <b>Dissolved Oxygen:</b> Shows the concentration of oxygen available for aquatic organisms. </ul>  
+<ul> <b>pH:</b> Describes the water’s hydrogen ion concentration, determining its acidic or basic nature. </ul>  
+<ul> <b>Secchi Depth (m):</b> A measure of water clarity, assessed using a Secchi disk. </ul>  
+<ul> <b>Water Depth:</b> The total vertical distance from the surface to the bottom at the sampling site. </ul>  
+<ul> <b>Water Temperature:</b> Indicates the heat level of the water body at the time of sampling. </ul>  
+<ul> <b>Air Temperature:</b> Denotes the surrounding atmospheric temperature recorded simultaneously with water data. </ul>  
 
 ### Example Data Visualizations:-
 
